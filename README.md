@@ -11,17 +11,29 @@ The tool performs automated crawling, vulnerability detection, and HTTP request 
 ## Features
 
 • Automated Web Crawler
+
 • SQL Injection Detection
+
 • Cross-Site Scripting (XSS) Detection
+
 • Security Header Analysis
+
 • Technology Fingerprinting
+
 • Directory Brute Force Discovery
+
 • Subdomain Enumeration
+
 • Parameter Fuzzing Engine
+
 • Open Redirect Detection
+
 • CORS Misconfiguration Detection
+
 • HTTP Request Replay Interface
+
 • Export Scan Reports (CSV & PDF)
+
 • Real-Time Scan Monitoring (WebSocket)
 
 ---
