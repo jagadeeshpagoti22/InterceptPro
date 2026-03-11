@@ -1,6 +1,6 @@
 # InterceptPro
 
-# InterceptPro – Web Security Scanner & HTTP Interceptor
+InterceptPro – Web Security Scanner & HTTP Interceptor
 
 InterceptPro is a Python-based **web security scanning and HTTP interception tool** designed for security testing and vulnerability analysis.
 
