@@ -1,0 +1,6 @@
+flask
+flask-socketio
+requests
+beautifulsoup4
+mitmproxy
+urllib3
