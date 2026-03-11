@@ -65,11 +65,17 @@ python myapp.py
 ## Project Structure
 
 InterceptPro
+
 │
+
 ├── myapp.py
+
 ├── iplocation.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── screenshots
 
 ---
